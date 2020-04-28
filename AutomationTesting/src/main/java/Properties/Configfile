@@ -1,0 +1,22 @@
+
+// This data is the common for all time. No need to change.
+
+
+url=https://wheres-waldlo.webnode.com/
+
+browser=chrome
+Browser=Firefox
+Browser1=edge
+
+
+
+// This is Testdata, some times I am using test data like this by using propery file.
+
+Firstname=satheesh
+Address=Unit 96,Sunset Close
+City= Midrand
+ZipCode=1686
+Email=vusikelasatheesh123@gmail.com
+Phone=0731209175
+
+Notes= Testing

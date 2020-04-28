@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Automation testing" parallel="none">
+<listeners>
+<listener class-name="GenerateExtendReports.Extendreports"></listener>
+
+</listeners>
+  <test name="Test">
+    <classes>
+      <class name="AllTestScripts.Scenario3"/>
+      <class name="AllTestScripts.Secnario2"/>
+      <class name="AllTestScripts.Scenario1"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
